@@ -1,24 +1,16 @@
-# 💫 About Me:
 # Hi, I'm Rajesh 👋
-
 ## *About Me*
 *Computer Science Engineer* who loves **startups**, **business models**, and building impactful backend systems.
-
 ## *🔭 Currently Working On*
 *Sharpening DSA skills* and building **backend projects with Django REST Framework**.
-
 ## *🌱 Currently Learning*
 *System design*, *scalable REST APIs*, and the *basics of executing startup ideas*.
-
 ## *💡 Ask Me About*
 *Startups*, *business models*, *fintech ideas*, and *backend development*.
-
 ## *🚀 Interests*
 *Product building*, *startup ecosystems*, *machine learning*, and *deep learning*.
-
 ## *⚡ Fun Fact*
 *I believe the best code is the one that solves a real business problem.*
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RajeshVvs) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajesh_vvs_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Venkata Sai Rajesh V) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/RAJESH_VVS_2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeshvavilapalli5@gmail.com) 
