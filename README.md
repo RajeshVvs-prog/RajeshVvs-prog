@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Rajesh 👋
 
-<!--
-**RajeshVvs-prog/RajeshVvs-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Computer Science Engineer passionate about startups, business models, and backend development.
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
+Data Structures & Algorithms and backend projects using Django REST Framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+System design, scalable APIs, and startup execution basics.
+
+## 💡 Ask Me About
+Startups, business models, fintech ideas, and backend development.
+
+## 🚀 Interests
+Product building, startup ecosystems, machine learning, and deep learning.
+
+## ⚡ Fun Fact
+I believe great products sit at the intersection of code, business, and impact.
