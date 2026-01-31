@@ -1,5 +1,23 @@
 # 💫 About Me:
-👋 About Me: Computer Science Engineer passionate about startups, business models, and backend development.<br><br>🔭 Currently Working On: Data Structures & Algorithms and backend projects using Django REST Framework.<br><br>🌱 Currently Learning: System design, scalable APIs, and startup execution basics.<br><br>💡 Ask Me About: Startups, business models, fintech ideas, and backend development.<br><br>🚀 Interests: Product building, startup ecosystems, machine learning, and deep learning.<br><br>⚡ Fun Fact: I believe great products sit at the intersection of code, business, and impact.<br>
+# Hi, I'm Rajesh 👋
+
+## *About Me*
+*Computer Science Engineer* who loves **startups**, **business models**, and building impactful backend systems.
+
+## *🔭 Currently Working On*
+*Sharpening DSA skills* and building **backend projects with Django REST Framework**.
+
+## *🌱 Currently Learning*
+*System design*, *scalable REST APIs*, and the *basics of executing startup ideas*.
+
+## *💡 Ask Me About*
+*Startups*, *business models*, *fintech ideas*, and *backend development*.
+
+## *🚀 Interests*
+*Product building*, *startup ecosystems*, *machine learning*, and *deep learning*.
+
+## *⚡ Fun Fact*
+*I believe the best code is the one that solves a real business problem.*
 
 
 ## 🌐 Socials:
